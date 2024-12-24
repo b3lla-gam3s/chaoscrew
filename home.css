@@ -67,7 +67,9 @@ img {
 
 .secondparent{
 	display:flex;
-	gap: 5px;
+	gap: 10px;
+	width: 50%;
+	height: 50%;
 }
 
 footer {
